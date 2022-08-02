@@ -1,0 +1,10 @@
+
+name="akshaya"
+print(name)
+a=22
+b=20
+sum=a+b
+print("The sum is:", sum)
+
+
+
